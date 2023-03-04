@@ -1,0 +1,13 @@
+@import "app/styles/theme";
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Abel', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+
+
